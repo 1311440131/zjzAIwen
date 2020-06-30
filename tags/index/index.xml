@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>index on title</title>
-    <link>%20github.com/1311440131/zjzAIwen/tags/index/</link>
-    <description>Recent content in index on title</description>
+    <title>index on kuangji home page</title>
+    <link>github.com/1311440131/zjzAIwen/tags/index/</link>
+    <description>Recent content in index on kuangji home page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <copyright>Copyright © 2008–2030, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
     
-	<atom:link href="%20github.com/1311440131/zjzAIwen/tags/index/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="github.com/1311440131/zjzAIwen/tags/index/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Posts</title>
-      <link>%20github.com/1311440131/zjzAIwen/blog/</link>
+      <link>github.com/1311440131/zjzAIwen/blog/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>%20github.com/1311440131/zjzAIwen/blog/</guid>
+      <guid>github.com/1311440131/zjzAIwen/blog/</guid>
       <description></description>
     </item>
     
