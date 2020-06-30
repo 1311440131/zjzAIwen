@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>text on kuangji home page</title>
-    <link>github.com/1311440131/zjzAIwen/tags/text/</link>
+    <link>https://1311440131.github.io/zjzAIwen/tags/text/</link>
     <description>Recent content in text on kuangji home page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2008–2030, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
     <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="github.com/1311440131/zjzAIwen/tags/text/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://1311440131.github.io/zjzAIwen/tags/text/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Placeholder Text</title>
-      <link>github.com/1311440131/zjzAIwen/blog/placeholder-text/</link>
+      <link>https://1311440131.github.io/zjzAIwen/blog/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>github.com/1311440131/zjzAIwen/blog/placeholder-text/</guid>
+      <guid>https://1311440131.github.io/zjzAIwen/blog/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
 pectora summo.&lt;/p&gt;</description>
     </item>
