@@ -1,43 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>title</title>
-    <link>https://www.example.com/</link>
-    <description>Recent content on title</description>
+    <title>Posts on title</title>
+    <link>https://www.example.com/blog/</link>
+    <description>Recent content in Posts on title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 11 Apr 2020 18:49:01 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.example.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>https://www.example.com/posts/post1/</link>
-      <pubDate>Sat, 11 Apr 2020 18:49:01 +0200</pubDate>
-      
-      <guid>https://www.example.com/posts/post1/</guid>
-      <description>welcome to my place</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.example.com/posts/post2/</link>
-      <pubDate>Sat, 11 Apr 2020 18:49:01 +0200</pubDate>
-      
-      <guid>https://www.example.com/posts/post2/</guid>
-      <description>this is a micro blog used for short updates and link sharing, you can configure its behavior in config.toml</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.example.com/archives/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.example.com/archives/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Markdown Syntax Guide</title>
@@ -83,26 +56,6 @@ pectora summo.&lt;/p&gt;</description>
       
       <guid>https://www.example.com/blog/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://www.example.com/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.example.com/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
-    </item>
-    
-    <item>
-      <title>get in touch</title>
-      <link>https://www.example.com/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.example.com/contact/</guid>
-      <description>Send</description>
     </item>
     
   </channel>
